@@ -10,3 +10,5 @@ This repository consists of my solution to the problems in GeeksforGeeks beginee
 [Missing number in an array](https://github.com/i-abhiJha/GFG-begineer-dsa-sheet/blob/main/missing%20num.%20in%20an%20array.cpp)
 
 [Wave Array](https://github.com/i-abhiJha/GFG-begineer-dsa-sheet/blob/main/wave%20array.cpp)
+
+[Bitonic Point (use case of binary search0](https://github.com/i-abhiJha/GFG-begineer-dsa-sheet/blob/main/Bitonic%20point.cpp)
