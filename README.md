@@ -3,4 +3,4 @@ This repository consists of my solution to the problems in GeeksforGeeks beginee
 
 ## Problems :
 
-[Find minimum and maximum elements in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1/?page=1&curated[]=8&sortBy=submissions)
+[Find minimum and maximum elements in an array](https://github.com/i-abhiJha/GFG-begineer-dsa-sheet/blob/main/min%20and%20max%20in%20an%20array.cpp)
